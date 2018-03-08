@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.28)  6 MAR 2018 17:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.28)  8 MAR 2018 18:58
 entering extended mode
 **./Zusammenfassung_RLP_QD.tex
 (Zusammenfassung_RLP_QD.tex
@@ -705,47 +705,76 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
- [1] [2] [3]
-Overfull \hbox (1.46588pt too wide) in paragraph at lines 216--217
+ [1] [2]
+Overfull \hbox (15.04477pt too wide) in paragraph at lines 174--175
+[]\T1/cmr/m/n/10 einseitiges Über-wach-sen: Bäu-me vie-ler licht-be-dürf-ti-ger
+ Ar-ten (auch Ei-chen) wei-chen mit Hauptrieb
+ []
+
+[3] [4] [5]
+Overfull \hbox (1.46588pt too wide) in paragraph at lines 338--339
 \T1/cmr/m/n/10 stand-ort-ge-rech-te BA-Wahl, För-de-rung Na-tur-ver-jün-gung, W
 al-der-schlies-sung, Bo-den-schutz, Ver-
  []
 
 
-Overfull \hbox (6.378pt too wide) in paragraph at lines 238--239
+Overfull \hbox (6.378pt too wide) in paragraph at lines 360--361
 []\T1/cmr/m/n/10 Privatwald kann durch Wald-be-sit-zen-den selbst be-wirt-schaf
 -tet wer-den, wenn aus-rei-chen-de Kennt-
  []
 
-[4]
+[6] [7] <fig/hp_FI_Doug_Kief.png, id=37, 628.59843pt x 172.39406pt>
+File: fig/hp_FI_Doug_Kief.png Graphic file (type png)
+
+<use fig/hp_FI_Doug_Kief.png>
+Package pdftex.def Info: fig/hp_FI_Doug_Kief.png used on input line 452.
+(pdftex.def)             Requested size: 628.5969pt x 172.39363pt.
+
+<fig/hp_indholz.png, id=40, 683.55376pt x 95.6072pt>
+File: fig/hp_indholz.png Graphic file (type png)
+ <use fig/hp_indholz.png>
+Package pdftex.def Info: fig/hp_indholz.png used on input line 474.
+(pdftex.def)             Requested size: 683.5521pt x 95.60695pt.
+
+[8 <./fig/hp_FI_Doug_Kief.png> <./fig/hp_indholz.png>]
+<fig/hp_Bu_Ei.png, id=49, 688.07062pt x 180.675pt>
+File: fig/hp_Bu_Ei.png Graphic file (type png)
+ <use fig/hp_Bu_Ei.png>
+Package pdftex.def Info: fig/hp_Bu_Ei.png used on input line 489.
+(pdftex.def)             Requested size: 688.06894pt x 180.67455pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--515
+
+ []
+
 
 Package caption Warning: Unused \captionsetup[sub] on input line 22.
 See the caption package documentation for explanation.
 
-[5] (Zusammenfassung_RLP_QD.aux) ) 
+[9 <./fig/hp_Bu_Ei.png>] (Zusammenfassung_RLP_QD.aux) ) 
 Here is how much of TeX's memory you used:
- 6156 strings out of 493333
- 86121 string characters out of 3139194
+ 6176 strings out of 493333
+ 86520 string characters out of 3139194
  169041 words of memory out of 7999999
- 9581 multiletter control sequences out of 15000+200000
+ 9596 multiletter control sequences out of 15000+200000
  10989 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,11n,43p,812b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\hilla\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\hilla\AppData\Local\MiKT
-eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\hilla\AppData\
-Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\hill
-a\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\
-Users\hilla\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx144
-0.pk> <C:\Users\hilla\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
-00\ecsl1000.pk> <C:\Users\hilla\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknapp
-en\ec\dpi600\ecrm1200.pk> <C:\Users\hilla\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecrm1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb>
-Output written on Zusammenfassung_RLP_QD.pdf (6 pages, 114700 bytes).
+ <C:\Users\hilla\AppData
+\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\hil
+la\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:
+\Users\hilla\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm10
+00.pk> <C:\Users\hilla\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
+600\ecbx1200.pk> <C:\Users\hilla\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
+pen\ec\dpi600\ecbx1440.pk> <C:\Users\hilla\AppData\Local\MiKTeX\2.9\fonts\pk\lj
+four\jknappen\ec\dpi600\ecsl1000.pk> <C:\Users\hilla\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\hilla\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Zusammenfassung_RLP_QD.pdf (10 pages, 179799 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
+ 375 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 34 words of extra memory for PDF output out of 10000 (max. 10000000)
 
